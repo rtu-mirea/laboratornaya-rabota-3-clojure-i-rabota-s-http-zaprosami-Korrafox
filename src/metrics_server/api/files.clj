@@ -40,7 +40,7 @@
 		:directory (get file :directory) 
 		:executable (get file :executable)
     }) files)
- Ы)
+ )
 
 ;; Задание 3
 (defn t_task [files] (/ 
